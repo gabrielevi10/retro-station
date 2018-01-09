@@ -1,1 +1,1 @@
-# retro-station
+# A simple tetris made in Java using libGDX engine.
